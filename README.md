@@ -5,3 +5,5 @@ Here i post my python practice games
 classic game of tick tack toe
 ### 2. Flappy horse
 Its flappy bird but with a horse
+### 3. Snake Game
+The classic snake game
